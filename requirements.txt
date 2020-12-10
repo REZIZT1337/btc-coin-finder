@@ -1,3 +1,4 @@
+mnemonic
 selenium
 webdriver-manager
 bs4
